@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/malthew/travisGettingStarted2020.svg?branch=master)](https://travis-ci.org/malthew/travisGettingStarted2020)
 
 Ultra simple Java Project meant for a Travis introduction
 
